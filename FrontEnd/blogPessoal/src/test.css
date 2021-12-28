@@ -1,0 +1,19 @@
+#main a{
+    color: green;
+}
+
+p a{
+    color: yellow
+}
+
+.container #main a{
+    color:pink
+}
+
+div #main p a{
+    color: orange;
+}
+
+a{
+    color: red;
+}
